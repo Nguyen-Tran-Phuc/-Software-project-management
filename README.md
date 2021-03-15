@@ -1,4 +1,4 @@
-[NguyenTranPhuc-18110339.pdf](https://github.com/Nguyen-Tran-Phuc/Software-project-management/files/6142611/NguyenTranPhuc-18110339.pdf)
+
 # Đề tài môn Công nghệ phần mềm
 # Tên đề tài: Ứng Dụng Điểm Danh Trong Lớp Học
 # Nhóm Thực Hiện
